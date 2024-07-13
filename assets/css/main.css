@@ -3947,3 +3947,21 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+.bandcamp-iframe {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	padding-top: 125%;
+}
+
+.bandcamp-responsive-iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	border: 0;
+	width: 100%;
+	height: 100%;
+  }
