@@ -1,3 +1,0 @@
-artist, track_id, track_name, image_file_name, beatport_url
-adrian_romagnano, 8513067, Washed Ashore on Dreams of Gold, washed-ashore-on-dreams-of-gold.jpg, https://adrianromagnano.bandcamp.com/track/washed-ashore-on-dreams-of-gold
-adrian_romagnano, 748153743, Fukuoka 福岡, fukuoka.jpg, https://adrianromagnano.bandcamp.com/track/fukuoka

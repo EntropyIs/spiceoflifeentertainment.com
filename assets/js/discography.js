@@ -4,10 +4,7 @@ const artist = urlParams.get('atrist');
 
 console.log(artist);
 
-$.get('assets/data/discography.txt', function(csvData)
+$.getJSON('assets/data/discography.json', function(data)
 {
-    console.log(csvData)
-    var data = $.csv.toObjects(csvData);
-    console.log(data);
+    console.log(data)
 });
-
