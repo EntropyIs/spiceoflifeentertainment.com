@@ -1,0 +1,152 @@
+{
+    "artist": [
+        {
+            "id" : "adrian_romagnano",
+            "name" : "Adrian Romagnano",
+            "links": [
+                {
+                    "type": "brands alt fa-bandcamp",
+                    "url": "https://adrianromagnano.bandcamp.com/music",
+                    "description": "Bandcamp"
+                },
+                {
+                    "type": "brands alt fa-twitter",
+                    "url": "https://adrianromagnano.bandcamp.com/music",
+                    "description": "@HouseMusicMelb"
+                },
+                {
+                    "type": "solid alt fa-none",
+                    "url": "https://www.outreachdance.co.uk",
+                    "description": "Outreach Dance Radio Show"
+                },
+                {
+                    "type": "solid alt fa-envelope",
+                    "url": "ailto:housemusicmelbourne@gmail.com",
+                    "description": "housemusicmelbourne@gmail.com"
+                },
+                {
+                    "type": "solid alt fa-envelope",
+                    "url": "mailto:adrian@outreachdance.co.uk",
+                    "description": "housemusicmelbourne@gmail.com"
+                }
+            ],
+            "banner_file_name": "adrian_romagnano_-_banner.png",
+            "short_description": "Founder of this whole shamozzle, Adrian started this nonsense fresh out of highschool back in 2003 with the business 'Spice of Life Entertainment' (where you are now!)",
+            "long_description": [
+                "Founder of this whole shamozzle, Adrian started this nonsense fresh out of highschool back in 2003 with the business 'Spice of Life Entertainment' (where you are now!)",
+                "When he was 16, Adrian was asked to Dj at some guy's 16th birthday party (having never played, or gone to a gig in his life) and for some reason his peers enjoyed it and started booking him.  Too lazy to get a 'real' job, Adrian decided to start depriving these people's parents of their hard earned money and made a business of playing his peers' parties.  This went on to become the 'older kids' parties (the 18 year olds) and the 'real adults' parties (the 21st parties, with the strippers!) and then the proper adults!  (The 30+ crowd.)",
+                "Whilst this was all going on Adrian was trying to make music in his bedroom and was doing a terrible job of it and at the same time scoring gigs in and around town at a number of nightclubs.  Adrian started hosting his own parties when he became disheartened with the way things were and decided to release his own music because it was so bad no one wanted to sign it to their label.  (Better to be honest.  Right?) ",
+                "Primarily a House music Dj/ producer,  Adrian can and has diversified out into a plethora of EDM genres though under his actual name, House music is king! ",
+                "Nowadays, Adrian hosts a weekly radio show in the UK which airs on Friday nights and has a tendency to end webpage bio's abruptly."
+            ]
+        }
+    ],
+
+    "track": [
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "8513067",
+            "track_name" : "Washed Ashore on Dreams of Gold",
+            "image_file_name" : "washed-ashore-on-dreams-of-gold.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/track/washed-ashore-on-dreams-of-gold"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "748153743",
+            "track_name" : "Fukuoka 福岡",
+            "image_file_name" : "fukuoka.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/track/fukuoka"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "2947178162",
+            "track_name" : "Hiroshima 広島",
+            "image_file_name" : "hiroshima.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/track/hiroshima"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "1038534435",
+            "track_name" : "Soulmate",
+            "image_file_name" : "soulmate.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/album/soulmate"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "2664485655",
+            "track_name" : "Never Really Autumn",
+            "image_file_name" : "never-really-autumn.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/track/never-really-autumn"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "1496664299",
+            "track_name" : "The Sleezy Beats EP",
+            "image_file_name" : "sleezy-beats-ep.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/album/the-sleezy-beats-ep"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "3797219030",
+            "track_name" : "Sweet Sweet Sugar Sugar",
+            "image_file_name" : "sweet-sweet-sugar-sugar.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/track/sweet-sweet-sugar-sugar"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "3150490452",
+            "track_name" : "Get On Down Tonight (Just Trust Me)",
+            "image_file_name" : "get-on-down-tonight.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/track/get-on-down-tonight-just-trust-me"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "1351969840",
+            "track_name" : "Beach Buddy Luv Some Buddy",
+            "image_file_name" : "beach-buddy-luv-some-buddy.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/track/beach-buddy-luv-some-buddy"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "1508526084",
+            "track_name" : "Thursday Before The Finals",
+            "image_file_name" : "thursday-before-the-finals.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/track/thursday-before-the-finals"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "1946042588",
+            "track_name" : "Hand in Hand",
+            "image_file_name" : "hand-in-hand.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/track/hand-in-hand"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "268202168",
+            "track_name" : "The Flinders At 3 EP",
+            "image_file_name" : "flinders-at-three-ep.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/album/the-flinders-at-3-ep"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "1865234470",
+            "track_name" : "Trick Girls",
+            "image_file_name" : "trick-girls.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/track/trick-girls"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "3035077603",
+            "track_name" : "The Midnight Gelato EP",
+            "image_file_name" : "midnight-gelato-ep.jpg",
+            "beatport_url" : "https://adrianromagnano.bandcamp.com/album/the-midnight-gelato-ep"
+        },
+        {
+            "artist_id" : "",
+            "track_id" : "",
+            "track_name" : "",
+            "image_file_name" : "",
+            "beatport_url" : ""
+        }
+    ]
+}
