@@ -11,7 +11,7 @@
                 },
                 {
                     "type": "brands alt fa-twitter",
-                    "url": "https://adrianromagnano.bandcamp.com/music",
+                    "url": "https://x.com/HouseMusicMelb",
                     "description": "@HouseMusicMelb"
                 },
                 {
@@ -27,7 +27,7 @@
                 {
                     "type": "solid alt fa-envelope",
                     "url": "mailto:adrian@outreachdance.co.uk",
-                    "description": "housemusicmelbourne@gmail.com"
+                    "description": "adrian@outreachdance.co.uk"
                 }
             ],
             "banner_file_name": "adrian_romagnano_-_banner.png",
@@ -38,6 +38,135 @@
                 "Whilst this was all going on Adrian was trying to make music in his bedroom and was doing a terrible job of it and at the same time scoring gigs in and around town at a number of nightclubs.  Adrian started hosting his own parties when he became disheartened with the way things were and decided to release his own music because it was so bad no one wanted to sign it to their label.  (Better to be honest.  Right?) ",
                 "Primarily a House music Dj/ producer,  Adrian can and has diversified out into a plethora of EDM genres though under his actual name, House music is king! ",
                 "Nowadays, Adrian hosts a weekly radio show in the UK which airs on Friday nights and has a tendency to end webpage bio's abruptly."
+            ]
+        },
+        {
+            "id" : "anti_plur",
+            "name" : "Anti-P.L.U.R",
+            "links": [
+                {
+                    "type": "brands alt fa-bandcamp",
+                    "url": "https://anti-plur.bandcamp.com/music",
+                    "description": "Bandcamp"
+                },
+                {
+                    "type": "brands alt fa-twitter",
+                    "url": "https://x.com/AntiPLUR1",
+                    "description": "@AntiPLUR1"
+                },
+                {
+                    "type": "solid alt fa-envelope",
+                    "url": "mailto:anti-plur@hotmail.com",
+                    "description": "anti-plur@hotmail.com"
+                }
+            ],
+            "banner_file_name": "anti-plur_-_banner.png",
+            "short_description": "With a focus on Techno and Acid, Anti-P.L.U.R is a semi political project that's been about 15 years or so in the making!",
+            "long_description": [
+                "With a focus on Techno and Acid, Anti-P.L.U.R is a semi political project that's been about 15 years or so in the making! ",
+                "Anti-P.L.U.R was formed when the owners of Spice of Life Entertainment were seeing a worrying trend in the nightlife industry they were attempting to become a success in.  That worrying trend was a drug culture and hypocrisy that came along with it. ",
+                "Welcomed to the rave scene as a teenager, Anti-P.L.U.R was always taught the penance of peace, love, unity and respect; believing that all are welcome and accepted unconditionally.  Unfortunately, in the nightlife/ entertainment industry; conditions definitely apply! ",
+                "One of those conditions was an illegal one which Anti-P.L.U.R didn't want to take part in and so he thought “if this P.L.U.R, I don't want any part of it!” and so Anti-P.L.U.R was formed as an expression of the extended middle finger to those who declared themselves 'the scene.' ",
+                "Ironically, the artist's works were well received and he was able to branch off into other electronic music genres such as Psy Trance/ Goa and Drum N' Bass/ Jungle. ",
+                "Anti-P.L.U.R is a 'no F's given' artist and if the work has vocals, they're usually going to be rude or silly as fun is what the music has been, should be and will always be about! "
+            ]
+        },
+        {
+            "id" : "3071",
+            "name" : "3071",
+            "links": [
+                {
+                    "type": "brands alt fa-bandcamp",
+                    "url": "https://3071.bandcamp.com/music",
+                    "description": "Bandcamp"
+                },
+                {
+                    "type": "brands alt fa-twitter",
+                    "url": "https://x.com/Techno3071",
+                    "description": "@Techno3071"
+                }
+            ],
+            "banner_file_name": "3071_-_banner.png",
+            "short_description": "3071 is a unity of two of Spice of Life Entertainments most prominent stars. (We won't say who!)  The goal of this project is to bring more of a festival feel to the music on the label however it's fair to mention that the festival vibe that these two know and appreciate is far more different to what festival vibes are today!",
+            "long_description": [
+                "3071 is a unity of two of Spice of Life Entertainments most prominent stars. (We won't say who!)  The goal of this project is to bring more of a festival feel to the music on the label however it's fair to mention that the festival vibe that these two know and appreciate is far more different to what festival vibes are today",
+                "3071 is the postcode for Thornbury.  A town in Melbourne, Australia which was (once) a little bit dodgy but is now a super swish hot spot for hipsters.  A lot of the music made in the early days of Spice of Life Entertainment was made in this suburb and 3071 is a homage to that.",
+                "Primarily Techno, the 3071 sound is definitely something that can't be defined purely as Techno (or Trance, or anything!)  It has a lot of swishy, swashy pads and big, sexy beats and synth lines.  It's designed for festivals, but those big live electronic music ones where each song goes for 10 minutes or so.  (Yes, they have a 14 minute song!)",
+                "Definitely an old school electronic/ EDM vibe, 3071 is for the Techno thinkers, not the big Techno drinkers!"
+            ]
+        },
+        {
+            "id" : "naked_age",
+            "name" : "Naked Age",
+            "links": [
+                {
+                    "type": "brands alt fa-bandcamp",
+                    "url": "https://nakedage.bandcamp.com/music",
+                    "description": "Bandcamp"
+                },
+                {
+                    "type": "brands alt fa-twitter",
+                    "url": "https://x.com/NakedAge",
+                    "description": "@NakedAge"
+                },
+                {
+                    "type": "solid alt fa-envelope",
+                    "url": "mailto:nakedage@gmail.com",
+                    "description": "nakedage@gmail.com"
+                }
+            ],
+            "banner_file_name": "naked_age_-_banner.png",
+            "short_description": "",
+            "long_description": [
+                "How does someone come up with an artist name like 'Naked Age?'  Well, cast your minds back (if you will) to the days of dial up modems.  Back then, Naked Age was still a high school student playing around with music software and trying to get heard anywhere he could.  The internet was a new and exciting avenue of expression and promotion and there was a particular webpage which was designed specifically for hosting music long before the ones that are popular now were available.",
+                "A friend decided to introduce Naked Age to the webpage and the time came to fill out the registration form.  Taking its sweet arse time to load the completion of registration page, our favourite nude dude went to take a shower and returned only to find a message on the screen.",
+                "Can not complete registration.  Your name is already taken.",
+                "Begora!  Standing there in all his naked glory, there was naught but one solution to this problem of 'naming' (and shaming) and so, the term “Naked Age” was entered and some 20 something years later it has stuck!  ",
+                "Naked Age has subsequently played some of Melbourne's most prominent raves and rave clubs and been banned from those clubs, scenes and online spaces for saying the things that ravers hate to love and love to hate.  Question his politics as you will, his music is unquestionable with a focus on the harder end of the musical stick.  Stuck between House and Techno, Naked Age sailed the seas of Hard House and Hard Trance and came back to shore on a surfboard of Electro.  Renowned for playing silly things like samples of dudes taking a dump in his sets and yes, the jungle Sesame Street theme, yes, Cotton Eye Joe, yes Scatman and yes, YMCA; Naked Age takes 'fun' to a whole new level.  There is no space for showboating here.  No space to throw your hands in the air and wave them around like you just don't care because someone, somewhere always will and so the only thing for it is to break down the dance floor and have some good old fashioned fun!"
+            ]
+        },
+        {
+            "id" : "old_mens_grooves",
+            "name" : "Old Men's Grooves",
+            "links": [
+                {
+                    "type": "brands alt fa-bandcamp",
+                    "url": "https://oldmensgrooves.bandcamp.com/music",
+                    "description": "Bandcamp"
+                },
+                {
+                    "type": "brands alt fa-twitter",
+                    "url": "https://x.com/oldmensgrooves",
+                    "description": "@oldmensgrooves"
+                },
+                {
+                    "type": "solid alt fa-envelope",
+                    "url": "mailto:oldmensgrooves@gmail.com",
+                    "description": "oldmensgrooves@gmail.com"
+                }
+            ],
+            "banner_file_name": "old_mens_grooves_-_banner.png",
+            "short_description": "Old Men's Grooves is a project to take older styled electronic music software and equipment and make music in a new way with older sounds, forming a unique and vintage sounding groove (hence the name.)",
+            "long_description": [
+                "Old Men's Grooves is a project to take older styled electronic music software and equipment and make music in a new way with older sounds, forming a unique and vintage sounding groove (hence the name.)",
+                "Originally inspired by a trip to Bali, the music went on to create some unique sounds with surprising end products which to be honest, we entirely forgot about until we showed up to write this bio! ",
+                "The music of Old Men's Grooves is for an older audience in that it requires a larger attention span to be appreciated.  Think of a middle aged man who's gone train spotting and is reminiscing about a life well spent and is now putting those memories into a musical landscape somewhere between Techno and House. "
+            ]
+        },
+        {
+            "id" : "",
+            "name" : "",
+            "links": [
+                {
+                    "type": "",
+                    "url": "",
+                    "description": ""
+                }
+            ],
+            "banner_file_name": "",
+            "short_description": "",
+            "long_description": [
+                ""
             ]
         }
     ],
@@ -140,6 +269,258 @@
             "track_name" : "The Midnight Gelato EP",
             "image_file_name" : "midnight-gelato-ep.jpg",
             "beatport_url" : "https://adrianromagnano.bandcamp.com/album/the-midnight-gelato-ep"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "2774420284",
+            "track_name" : "2 Nights in Bendy-Hoe",
+            "image_file_name" : "2-nights-in-bendy-hoe.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/2-nights-in-bendy-hoe"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "2708628714",
+            "track_name" : "Afterthought",
+            "image_file_name" : "afterthought.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/afterthought"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "349266174",
+            "track_name" : "There's A Can Up Mi Clacker",
+            "image_file_name" : "theres-a-can-up-mi-clacker.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/theres-a-can-up-mi-clacker"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "2826209681",
+            "track_name" : "Dumb and Bass Track",
+            "image_file_name" : "dumb-and-bass-track.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/dumb-and-bass-track"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "626260049",
+            "track_name" : "Cellar Door",
+            "image_file_name" : "cellar-door.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/cellar-door"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "1323424677",
+            "track_name" : "G.O.A (Gift of Acid)",
+            "image_file_name" : "g-o-a-gift-of-acid.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/g-o-a-gift-of-acid"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "3661120533",
+            "track_name" : "Slippin' In Smeg",
+            "image_file_name" : "lippin-in-smeg.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/slippin-in-smeg"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "115236074",
+            "track_name" : "Choke Bass",
+            "image_file_name" : "choke-bass.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/choke-bass"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "1834658162",
+            "track_name" : "Acid",
+            "image_file_name" : "acid.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/album/acid"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "175220817",
+            "track_name" : "Self Portrait",
+            "image_file_name" : "self-portrait.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/self-portrait"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "2461843196",
+            "track_name" : "Concrete Cum Stains EP",
+            "image_file_name" : "concrete-cum-stains-ep.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/album/concrete-cum-stains-ep"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "1696929039",
+            "track_name" : "The Little Japanese School On Little Collins St",
+            "image_file_name" : "the-little-japanese-school-on-little-collins-st.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/the-little-japanese-school-on-little-collins-st"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "179024189",
+            "track_name" : "Psy Bugs N' Hippy Guts",
+            "image_file_name" : "psy-bugs-n-hippy-guts.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/psy-bugs-n-hippy-guts"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "1737152841",
+            "track_name" : "The Perforated Anus",
+            "image_file_name" : "the-perforated-anus.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/the-perforated-anus"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "2382730033",
+            "track_name" : "Toxic Hippy Sigh Trance Detox (Aum)",
+            "image_file_name" : "toxic-hippy-sigh-trance-detox-aum.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/toxic-hippy-sigh-trance-detox-aum"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "2230180359",
+            "track_name" : "Escape Plan",
+            "image_file_name" : "escape-plan.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/escape-plan"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "2603380509",
+            "track_name" : "Ga Man Ji Ru (Men's Soup)",
+            "image_file_name" : "ga-man-ji-ru-mens-soup.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/ga-man-ji-ru-mens-soup"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "1211521852",
+            "track_name" : "Concrete Sunday",
+            "image_file_name" : "concrete-sunday.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/concrete-sunday"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "1428743378",
+            "track_name" : "H.S.O.T (Hypnotic State of Techno)",
+            "image_file_name" : "h-s-o-t-hypnotic-state-of-techno.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/h-s-o-t-hypnotic-state-of-techno"
+        },
+        {
+            "artist_id" : "anti_plur",
+            "track_id" : "2149087494",
+            "track_name" : "The Hand That Slaps Ya Mum (On the Bot Bot)",
+            "image_file_name" : "the-hand-that-slaps-ya-mum-on-the-bot-bot.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/the-hand-that-slaps-ya-mum-on-the-bot-bot"
+        },
+        {
+            "artist_id" : "3071",
+            "track_id" : "3688687961",
+            "track_name" : "The Day After?",
+            "image_file_name" : "the-day-after.jpg",
+            "beatport_url" : "https://3071.bandcamp.com/track/the-day-after"
+        },
+        {
+            "artist_id" : "3071",
+            "track_id" : "3048118351",
+            "track_name" : "The Dying Light",
+            "image_file_name" : "the-dying-light.jpg",
+            "beatport_url" : "https://3071.bandcamp.com/track/the-dying-light"
+        },
+        {
+            "artist_id" : "3071",
+            "track_id" : "1194679407",
+            "track_name" : "2020/2021",
+            "image_file_name" : "2020-2021.jpg",
+            "beatport_url" : "https://3071.bandcamp.com/track/2020-2021"
+        },
+        {
+            "artist_id" : "3071",
+            "track_id" : "3967339616",
+            "track_name" : "1703%",
+            "image_file_name" : "1703.jpg",
+            "beatport_url" : "https://3071.bandcamp.com/track/1703"
+        },
+        {
+            "artist_id" : "3071",
+            "track_id" : "3928660910",
+            "track_name" : "Fexor",
+            "image_file_name" : "fexor.jpg",
+            "beatport_url" : "https://3071.bandcamp.com/track/fexor"
+        },
+        {
+            "artist_id" : "3071",
+            "track_id" : "768633167",
+            "track_name" : "Waves of Nothing",
+            "image_file_name" : "waves-of-nothing.jpg",
+            "beatport_url" : "https://3071.bandcamp.com/track/waves-of-nothing"
+        },
+        {
+            "artist_id" : "naked_age",
+            "track_id" : "2982427125",
+            "track_name" : "Trancesexual",
+            "image_file_name" : "trancesexual.jpg",
+            "beatport_url" : "https://nakedage.bandcamp.com/track/trancesexual"
+        },
+        {
+            "artist_id" : "naked_age",
+            "track_id" : "1695332779",
+            "track_name" : "A Trip Through The Garden Of ZOGG",
+            "image_file_name" : "a-trip-through-the-garden-of-zogg.jpg",
+            "beatport_url" : "https://nakedage.bandcamp.com/track/a-trip-through-the-garden-of-zogg"
+        },
+        {
+            "artist_id" : "naked_age",
+            "track_id" : "",
+            "track_name" : "The Sunset In Her Eyes",
+            "image_file_name" : "the-sunset-in-her-eyes.jpg",
+            "beatport_url" : "https://nakedage.bandcamp.com/track/the-sunset-in-her-eyes"
+        },
+        {
+            "artist_id" : "naked_age",
+            "track_id" : "2917393121",
+            "track_name" : "Active Beat",
+            "image_file_name" : "active-beat.jpg",
+            "beatport_url" : "https://nakedage.bandcamp.com/track/active-beat"
+        },
+        {
+            "artist_id" : "old_mens_grooves",
+            "track_id" : "2464984193",
+            "track_name" : "Y.M.A",
+            "image_file_name" : "y-m-a.jpg",
+            "beatport_url" : "https://oldmensgrooves.bandcamp.com/track/y-m-a"
+        },
+        {
+            "artist_id" : "old_mens_grooves",
+            "track_id" : "3720196737",
+            "track_name" : "One Day On A Plane",
+            "image_file_name" : "one-day-on-a-plane.jpg",
+            "beatport_url" : "https://oldmensgrooves.bandcamp.com/track/one-day-on-a-plane"
+        },
+        {
+            "artist_id" : "old_mens_grooves",
+            "track_id" : "3420419545",
+            "track_name" : "One Day On A Train",
+            "image_file_name" : "one-day-on-a-train.jpg",
+            "beatport_url" : "https://oldmensgrooves.bandcamp.com/track/one-day-on-a-train"
+        },
+        {
+            "artist_id" : "old_mens_grooves",
+            "track_id" : "3318335307",
+            "track_name" : "Little A' Bit O' Lo Fi",
+            "image_file_name" : "little-a-bit-o-lo-fi.jpg",
+            "beatport_url" : "https://oldmensgrooves.bandcamp.com/track/little-a-bit-o-lo-fi"
+        },
+        {
+            "artist_id" : "old_mens_grooves",
+            "track_id" : "3316098312",
+            "track_name" : "Let's Get Chips",
+            "image_file_name" : "lets-get-chips.jpg",
+            "beatport_url" : "https://oldmensgrooves.bandcamp.com/album/lets-get-chips"
+        },
+        {
+            "artist_id" : "old_mens_grooves",
+            "track_id" : "3188165759",
+            "track_name" : "Vacaciones en Exotica",
+            "image_file_name" : "vacaciones-en-exotica.jpg",
+            "beatport_url" : "https://oldmensgrooves.bandcamp.com/track/vacaciones-en-exotica"
         },
         {
             "artist_id" : "",

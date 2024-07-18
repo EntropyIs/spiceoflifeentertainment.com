@@ -19,6 +19,11 @@ $.getJSON('assets/data.json', function(data)
     
     console.log(artistData)
 
+    // Set Page Title
+    $("<title>", {
+        html: artistData.name + " - Spice of Life Entertainment"
+    }).appendTo("head")
+
     // Build Artist Profile
     var profileHeader = `<header class="major"><h1>` + artistData.name + `</h1></header>`;
     var profileImage = `<span class="image main"><img src="images/` + artistData.banner_file_name + `" alt="` + artistData.name+ `" /></span>`;
