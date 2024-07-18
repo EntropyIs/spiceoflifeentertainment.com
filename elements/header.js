@@ -1,14 +1,14 @@
 
-header.innerHTML = `
-    <a href="index.html" class="logo"><img src="images/logo_nt.png" /> <span>Spice of Life Entertainment</span></a>
-    <nav>
-        <a href="#menu">Menu</a>
-    </nav>
-`
+$("<a>", {
+    href : "index.html",
+    class : "logo",
+    html :  `<img src="images/logo_nt.png" /> <span>Spice of Life Entertainment</span>`
+}).appendTo("#header");
 
-menu.innerHTML = `
-    <ul class="links">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="artists.html">Artists</a></li>
-    </ul>
-`
+var links = []
+links.push(`<a href="index.html">Home</a>`)
+links.push(`<a href="artists.html">Artists</a>`)
+
+$("<nav>", {
+    html : links.join( " | " )
+}).appendTo("#header");
