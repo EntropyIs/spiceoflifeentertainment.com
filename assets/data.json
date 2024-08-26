@@ -163,6 +163,13 @@
 
     "track": [
         {
+            "artist_id" : "anti_plur",
+            "track_id" : "1090347558",
+            "track_name" : "Kicks Like A Mule! (The Donkey Song)",
+            "image_file_name" : "kicks-like-a-mule.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/kicks-like-a-mule-the-donkey-song"
+        },
+        {
             "artist_id" : "adrian_romagnano",
             "track_id" : "8513067",
             "track_name" : "Washed Ashore on Dreams of Gold",
