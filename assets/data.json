@@ -163,6 +163,20 @@
 
     "track": [
         {
+            "artist_id" : "anti_plur",
+            "track_id" : "2658365842",
+            "track_name" : "One Hell Ov A Chance!",
+            "image_file_name" : "one-hell-of-a-chance.jpg",
+            "beatport_url" : "https://anti-plur.bandcamp.com/track/one-hell-ov-a-chance"
+        },
+        {
+            "artist_id" : "adrian_romagnano",
+            "track_id" : "2097643929",
+            "track_name" : "That Song That Goes -",
+            "image_file_name" : "that-song-that-goes.jpg",
+            "beatport_url" : "https://nakedage.bandcamp.com/track/petrichor"
+        },
+        {
             "artist_id" : "naked_age",
             "track_id" : "2680637932",
             "track_name" : "Petrichor",
